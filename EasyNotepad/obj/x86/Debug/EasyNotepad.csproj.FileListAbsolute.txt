@@ -1,0 +1,15 @@
+C:\Users\stxyf\Downloads\Notepad-master\Bloco.de.notas\bin\Debug\ScyNotepad.exe.config
+C:\Users\stxyf\Downloads\Notepad-master\Bloco.de.notas\obj\x86\Debug\ScyNotepad.exe
+C:\Users\stxyf\Downloads\Notepad-master\Bloco.de.notas\obj\x86\Debug\ScyNotepad.pdb
+C:\Users\stxyf\Downloads\Notepad-master\Bloco.de.notas\bin\Debug\ScyNotepad.exe
+C:\Users\stxyf\Downloads\Notepad-master\Bloco.de.notas\bin\Debug\ScyNotepad.pdb
+C:\Users\stxyf\Downloads\Notepad-master\Bloco.de.notas\obj\x86\Debug\EasyNotepad.csprojResolveAssemblyReference.cache
+C:\Users\stxyf\Downloads\Notepad-master\Bloco.de.notas\obj\x86\Debug\notepad.form.resources
+C:\Users\stxyf\Downloads\Notepad-master\Bloco.de.notas\obj\x86\Debug\notepad.Properties.Resources.resources
+C:\Users\stxyf\Downloads\Notepad-master\Bloco.de.notas\obj\x86\Debug\EasyNotepad.csproj.GenerateResource.Cache
+C:\Users\stxyf\Downloads\Notepad-master\EasyNotepad\bin\Debug\ScyNotepad.exe.config
+C:\Users\stxyf\Downloads\Notepad-master\EasyNotepad\obj\x86\Debug\ScyNotepad.exe
+C:\Users\stxyf\Downloads\Notepad-master\EasyNotepad\obj\x86\Debug\ScyNotepad.pdb
+C:\Users\stxyf\Source\Repos\OriginText\EasyNotepad\bin\Debug\ScyNotepad.exe.config
+C:\Users\stxyf\Source\Repos\OriginText\EasyNotepad\obj\x86\Debug\ScyNotepad.exe
+C:\Users\stxyf\Source\Repos\OriginText\EasyNotepad\obj\x86\Debug\ScyNotepad.pdb
