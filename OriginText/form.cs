@@ -6,14 +6,26 @@ using System.Drawing;
 //using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-
+using OriginTokenizer;
 namespace OriginText
 {
     public partial class form : Form
     {
+        private FontColorManager manager;
         public form()
         {
             InitializeComponent();
+            manager = FontColorManager.Manager;
+            RegularExpression public_keyword = RegularExpression.CreateWithLiteral("public");
+            //public_keyword.Describtion = "public keyword";
+            RegularExpression word = RegularExpression.DefineRange('a','z').KleeneStar();
+            //word.Describtion = "word"/*;*/
+            TokenInfo a = new TokenInfo(public_keyword, Color.Blue);
+            TokenInfo b = new TokenInfo(word, Color.Black);
+
+            List<TokenInfo> list = new List<TokenInfo>() {a,b};
+            manager.SetTokenMessagePlan(list);
+            
         }
 
         private void frmPrincipal_Load(object sender, EventArgs e)
@@ -53,7 +65,7 @@ namespace OriginText
 
         private void textArea_TextChanged(object sender, EventArgs e)
         {
-
+            manager.Update(textArea);
         }
     }
 }

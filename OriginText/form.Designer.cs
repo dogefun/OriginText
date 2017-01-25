@@ -55,7 +55,7 @@
             this.textArea.Margin = new System.Windows.Forms.Padding(0);
             this.textArea.Name = "textArea";
             this.textArea.ShowSelectionMargin = true;
-            this.textArea.Size = new System.Drawing.Size(621, 299);
+            this.textArea.Size = new System.Drawing.Size(685, 360);
             this.textArea.TabIndex = 2;
             this.textArea.TabStop = false;
             this.textArea.Text = "";
@@ -71,7 +71,7 @@
             this.menu.Location = new System.Drawing.Point(1, 0);
             this.menu.Name = "menu";
             this.menu.Padding = new System.Windows.Forms.Padding(7, 2, 0, 2);
-            this.menu.Size = new System.Drawing.Size(621, 32);
+            this.menu.Size = new System.Drawing.Size(685, 32);
             this.menu.TabIndex = 1;
             this.menu.Text = "Menu";
             // 
@@ -134,7 +134,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(623, 332);
+            this.ClientSize = new System.Drawing.Size(687, 393);
             this.Controls.Add(this.textArea);
             this.Controls.Add(this.menu);
             this.Font = new System.Drawing.Font("Corbel", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

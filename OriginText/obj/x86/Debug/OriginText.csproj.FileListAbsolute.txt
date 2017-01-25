@@ -7,3 +7,5 @@ C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.cspro
 C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.exe
 C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.pdb
 C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.form.resources
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\bin\Debug\OriginTokenizer.exe
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\bin\Debug\OriginTokenizer.pdb

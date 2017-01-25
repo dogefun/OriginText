@@ -67,6 +67,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FontColorManager.cs" />
     <Compile Include="form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +76,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Token.cs" />
+    <Compile Include="TokenInfo.cs" />
     <EmbeddedResource Include="form.resx">
       <DependentUpon>form.cs</DependentUpon>
     </EmbeddedResource>
@@ -107,6 +110,12 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\OriginTokenizer\OriginTokenizer\OriginTokenizer.csproj">
+      <Project>{3085f908-ae88-4482-9267-fa41a1b41894}</Project>
+      <Name>OriginTokenizer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
