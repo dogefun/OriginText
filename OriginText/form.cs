@@ -7,7 +7,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace notepad
+namespace OriginText
 {
     public partial class form : Form
     {
@@ -49,6 +49,11 @@ namespace notepad
             {  textArea.WordWrap = true; }
             else 
             {  textArea.WordWrap = false; }
+        }
+
+        private void textArea_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

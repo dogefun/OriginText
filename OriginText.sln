@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNotepad", "EasyNotepad\EasyNotepad.csproj", "{BD0B18AE-47C2-42DF-A68A-56533BBD6BB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginText", "OriginText\OriginText.csproj", "{BD0B18AE-47C2-42DF-A68A-56533BBD6BB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

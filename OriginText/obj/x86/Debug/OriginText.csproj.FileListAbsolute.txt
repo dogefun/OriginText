@@ -1,0 +1,9 @@
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\bin\Debug\OriginText.exe.config
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\bin\Debug\OriginText.exe
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\bin\Debug\OriginText.pdb
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.csprojResolveAssemblyReference.cache
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.Properties.Resources.resources
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.csproj.GenerateResource.Cache
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.exe
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.pdb
+C:\Users\stxyf\Source\Repos\OriginText\OriginText\obj\x86\Debug\OriginText.form.resources

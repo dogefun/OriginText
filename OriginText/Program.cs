@@ -7,7 +7,7 @@ using System.Windows.Forms;
 //16.12.22
 //ArcherG
 
-namespace notepad
+namespace OriginText
 {
     static class Program
     {

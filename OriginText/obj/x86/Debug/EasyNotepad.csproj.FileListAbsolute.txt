@@ -13,3 +13,4 @@ C:\Users\stxyf\Downloads\Notepad-master\EasyNotepad\obj\x86\Debug\ScyNotepad.pdb
 C:\Users\stxyf\Source\Repos\OriginText\EasyNotepad\bin\Debug\ScyNotepad.exe.config
 C:\Users\stxyf\Source\Repos\OriginText\EasyNotepad\obj\x86\Debug\ScyNotepad.exe
 C:\Users\stxyf\Source\Repos\OriginText\EasyNotepad\obj\x86\Debug\ScyNotepad.pdb
+C:\Users\stxyf\Source\Repos\OriginText\EasyNotepad\bin\Debug\OriginText.exe.config
